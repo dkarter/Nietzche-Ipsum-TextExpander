@@ -21,7 +21,7 @@
 			<key>label</key>
 			<string>NIETZSCHE IPSUM</string>
 			<key>modificationDate</key>
-			<date>2015-06-14T02:24:19Z</date>
+			<date>2015-06-15T00:25:17Z</date>
 			<key>plainText</key>
 			<string>var IpsumGenerator = function(){};
 
@@ -105,7 +105,8 @@ nietzscheWords += 'aversion pious faith disgust horror moral prejudice free eter
 nietzscheWords += 'fearful ascetic salvation zarathustra hope value revaluation transvaluation ';
 nietzscheWords += 'christianity love hatred war ubermensch play suicide contradict battle reason';
 
-ipsumGen.generateIpsum(nietzscheWords, %filltext:name=words:default=150%);</string>
+ipsumGen.generateIpsum(nietzscheWords, %filltext:name=words:default=150%);
+%filltop%</string>
 			<key>snippetType</key>
 			<integer>4</integer>
 			<key>uuidString</key>
